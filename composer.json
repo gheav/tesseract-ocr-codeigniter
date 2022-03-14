@@ -1,0 +1,16 @@
+{
+    "name": "gheav/tesseract-ocr-codeigniter",
+    "description": "Tesseract OCR for PHP using CodeIgniter 3",
+    "type": "project",
+    "license": "Gheav Production",
+    "authors": [
+        {
+            "name": "Gilang Heavy",
+            "email": "gilangheavy@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.12"
+    }
+}
